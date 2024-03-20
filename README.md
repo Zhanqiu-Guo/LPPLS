@@ -1,2 +1,2 @@
 # LPPLS
-Simple LPPLS Bubble Model Based Trading Algorithms
+Testing Simple LPPLS Bubble Model
